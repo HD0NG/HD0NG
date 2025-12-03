@@ -2,7 +2,7 @@
 
 🎓 PhD Student @ University of Eastern Finland (UEF)  
 🔬 Research focus: **Solar Energy • LiDAR Data • Point Cloud Processing**  
-🐀 Rat dad to four curious explorers  
+🐀 Rat parent to four curious explorers  
 
 ---
 
